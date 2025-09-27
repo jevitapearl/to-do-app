@@ -1,13 +1,13 @@
 {
   "name": "to-do-app",
   "private": true,
-  "version": "1.0.0",
+  "version": "0.0.0",
   "type": "module",
   "homepage": "https://jevitapearl.github.io/to-do-app",
   "scripts": {
     "build": "vite build",
     "dev": "vite",
-    "lint": "eslint .", 
+    "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
